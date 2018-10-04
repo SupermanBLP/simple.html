@@ -62,3 +62,4 @@ You want to watch out for word-wrap issues that cause text to look awkward, if y
 This is a great section to bring some of the more formal resume elements onto the web.
 All the jobs are seperated by a bottom-border with the exception of the last one.
 # advancedresume
+# blpratt.html
